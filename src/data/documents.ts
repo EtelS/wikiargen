@@ -29,5 +29,10 @@ export const Documentos=[
         title: 'Configurar el llamador y llamar desde un consultorio',
         url:'https://www.dropbox.com/scl/fi/x0rjmk4krrsfcylpgzpno/Como-configurar-el-llamador-y-llamar.pdf?rlkey=xp6uihphouv1qw77xavsq9gwk&st=28qmpwvg&dl=0'
     },
+    {
+        id:'7',
+        title: 'Video explicativo de cómo instalar Argensalud en Mac',
+        url:'https://dl.dropbox.com/scl/fi/qhz7mwun7gtkzh8z6cqgb/A3795094_video_AC84A9C16088A1AA091CC9ED16A69EFE.mp4?rlkey=i3ml0m6vm16t8fcbyeuf9jwgq&dl=0'
+    },
 ]
 

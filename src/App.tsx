@@ -1,7 +1,7 @@
 
 import './App.css'
-import {Encabezado} from './components/encabezado'
-import {List} from './components/list'
+import {Encabezado} from './components/Encabezado'
+import {List} from './components/List'
 
 function App() {
  
