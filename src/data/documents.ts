@@ -39,5 +39,20 @@ export const Documentos=[
         title: 'Enlace a formulario de relevamiento de Bot de Atención al Paciente',
         url:'https://forms.gle/hhfEfwkL5Xp1LsMF8'
     },
+            {
+        id:'9',
+        title: 'Video de cómo verificar una linea en Meta para WhatsApp',
+        url:'https://www.youtube.com/shorts/4M4uhUHkzac'
+    },
+            {
+        id:'10',
+        title: 'Link a descarga de clientes escritorio',
+        url:'https://www.argensoft.net/SistemaArchivos/Sistemas/Turnero/SistemaTurneroEscritorio/ClientesEscritorioSetup.exe'
+    },
+                {
+        id:'11',
+        title: 'Guia para usuarios de Chatwoot',
+        url:'https://argensoft-chatwoot.325160.xyz/hc/guia-de-usuario/articles/1779977848-guia-rapida-de-chatwoot'
+    },
 ]
 
