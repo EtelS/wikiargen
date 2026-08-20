@@ -54,5 +54,26 @@ export const Documentos=[
         title: 'Guia para usuarios de Chatwoot',
         url:'https://argensoft-chatwoot.325160.xyz/hc/guia-de-usuario/articles/1779977848-guia-rapida-de-chatwoot'
     },
+    {
+        id:'12',
+        title: 'Bot Valle Salud',
+        url:'https://argensoft.net/botvallesalud/'
+    },
+        {
+        id:'13',
+        title: 'Bot Holister',
+        url:'https://www.argensoft.net/botholister/'
+    },
+        {
+        id:'14',
+        title: 'Bot Promed',
+        url:'https://argensoft.net/BotPromed/'
+    },
+            {
+        id:'15',
+        title: 'Bot Castilla Mira',
+        url:'https://argensoft.net/botcastilla/'
+    },
 ]
+
 
