@@ -75,5 +75,27 @@ export const Documentos=[
         url:'https://argensoft.net/botcastilla/'
     },
 ]
+export const LinksUtiles=[ 
+     {
+        id:'1',
+        title: 'Modems conectados',
+        url:'https://www.argensoft.net/Argenenvios/home/8'
+    },
+    {
+        id:'2',
+        title:'Monitoreo de Servicios',
+        url:'https://www.argensoft.net/Monitor'
+    },
+    {
+        id:'3',
+        title:'Gestión de bots',
+        url:' https://argensoft.net/monitor/bots'
+    },
+    {
+        id:'4',
+        title:'Generador de informes y acceso a la BD con IA',
+        url:' https://argensoft.net/CI/Index'
+    }
 
+]
 
